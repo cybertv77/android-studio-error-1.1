@@ -1,2 +1,4 @@
-# android-studio-error-1.1
-I am not able to add: getText and setText in Android Studio for making the project that is a kg to pound converter.
+# android-studio-error1
+not getting setText &amp; getText in Android Studio for making the kg to pound converter app.
+
+# PLEASE HELP
